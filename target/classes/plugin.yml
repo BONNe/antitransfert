@@ -1,0 +1,4 @@
+name: Antitransfert
+version: 1.0-SNAPSHOT
+main: fr.n54b.antitransfert.Main
+api-version: 1.16

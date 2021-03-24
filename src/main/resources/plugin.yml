@@ -1,0 +1,4 @@
+name: Antitransfert
+version: ${project.version}
+main: fr.n54b.antitransfert.Main
+api-version: 1.16
