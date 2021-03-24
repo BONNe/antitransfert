@@ -14,12 +14,12 @@ public class Main extends JavaPlugin implements Listener {
 
     public void onEnable() {
         instance = this;
-        System.out.println("[antitransfertile] Le plugin viens de s'allumer !");
+        System.out.println("[antitransfert] Le plugin viens de s'allumer !");
         this.pm.registerEvents(new dropitem(), this);
         this.pm.registerEvents(new placeitem(), this);
     }
 
     public void onDisable() {
-        System.out.println("[antitransfertile] Le plugin viens de s'\u00e9teindre !");
+        System.out.println("[antitransfert] Le plugin viens de s'\u00e9teindre !");
     }
 }
